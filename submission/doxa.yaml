@@ -1,0 +1,4 @@
+competition: harmony-parsing
+environment: cpu
+language: python
+entrypoint: run.py
